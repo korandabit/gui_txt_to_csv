@@ -1,10 +1,3 @@
-; --goal---
-; gui input
-; - 4line 
-; - 5 words per line
-; save to file
-
-; --cur--
 ; input 4line, save to csv
 
 ; -- known issues
@@ -35,7 +28,6 @@ Gui, Submit  ; Save GUI vars.
 
 
 ; --filework--
-; !+f::
 
 ; set wd and vars
 ; SetWorkingDir, G:\Dropbox\work\library\push
